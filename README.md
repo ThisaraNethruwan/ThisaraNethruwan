@@ -17,7 +17,7 @@ const thisara = {
   location: "Sri Lanka",
   currentFocus: "University Projects",
   learningPath: ["React", "Flutter", "ASP.NET", "Python", "Java", "C#", "C++", "JavaScript"],
-  portfolio: "https://dulcet-pika-cae6b3.netlify.app/",
+  portfolio: "[https://thisaradev.netlify.app/]",
   email: "thisaranethruwan2@gmail.com",
   passions: ["Software Development", "Problem Solving", "Learning New Technologies"],
   funFact: "I love turning coffee into code!"
