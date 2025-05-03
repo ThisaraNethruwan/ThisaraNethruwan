@@ -142,11 +142,7 @@ const thisara = {
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaranethruwan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thisaranethruwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFBFbf&fire=00BFBFbf&currStreakNum=FFFFFF&sideNums=00BFBF&ring=00BFBF&currStreakLabel=00BFBF&sideLabels=00BFBF&dates=FFFFFF" alt="GitHub Streak Stats" />
-</div>
 
 
 <br/>
