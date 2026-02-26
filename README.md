@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Thisara Nethruwan</div>
+# <div align="center">👨‍💻 Thisara Silva</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Full+Stack+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
